@@ -1,4 +1,0 @@
-npm create vite@latest
-cd p2      
-npm install
-npm run dev
