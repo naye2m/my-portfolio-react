@@ -23,5 +23,12 @@ dist-ssr
 *.sln
 *.sw?
 
+# server things
+responds
+
+
 # user defined
-/tmp/
+/tmp/*
+modules
+note.txt
+todo.txt
